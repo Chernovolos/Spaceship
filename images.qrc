@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/asteroid.png</file>
+        <file>images/enemy ship.png</file>
+        <file>images/enemy.png</file>
+        <file>images/spaceship.png</file>
+        <file>images/space.png</file>
+        <file>images/sprite_sheet.png</file>
+        <file>images/explosion.png</file>
+        <file>images/ex_2.png</file>
+        <file>images/heart.png</file>
+        <file>images/white_heart.png</file>
+        <file>images/keyboard_arrow.png</file>
+        <file>images/pngegg.png</file>
+        <file>images/play.png</file>
+        <file>images/pause.png</file>
+        <file>images/cancel.png</file>
+        <file>images/dead.PNG</file>
+        <file>images/life.PNG</file>
+    </qresource>
+</RCC>
